@@ -1,0 +1,10 @@
+Course: IMTech
+
+Roll No: 18MCME18
+
+Project: Super Market Stock Management
+
+1. This project helps to bill, update and alert the stocks of a Super Market.
+2. The main-file(executable file) that runs in the project is "FrontPage.java" .
+3. The remaining objects run when the appropriate button is clicked on the First Page.
+4. The file "stock.txt" stores the information on the item names and their quantities available. 

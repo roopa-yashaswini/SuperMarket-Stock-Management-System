@@ -1,0 +1,4 @@
+Chocolates 30
+Cookies 20
+Cakes 10
+Chips 15
